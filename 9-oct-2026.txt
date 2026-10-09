@@ -1,0 +1,23 @@
+9-oct-2026
+
+get-fetch
+post-registeration  but can also be used for different purpose like delete update
+put-update 
+
+patch-
+diff bet put and patch:
+put updates entire scheme but patch updates particular record
+access token and refresh token
+local storage-secure local storage
+cookie -
+ttl-time to leave
+,del200-sucess
+303-resource redirection
+500-server down
+404-page not found
+mostly used from 1 to 4
+429-rate limiting error(too many requests)
+dos and ddos
+reverse proxy/forward proxy
+
+

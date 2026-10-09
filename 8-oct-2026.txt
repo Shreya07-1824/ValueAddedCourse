@@ -1,0 +1,27 @@
+8-oct-2026
+
+DNS
+
+difference in http and https
+port (80 http) ,(443 https)
+man in the middle attack in http happens
+
+http has SHA256 hasging algorithm used for encryption of data while passing through medium to server
+ssl-certificate 
+CDN(content delivery network):company  cloudFlare
+     eg-i am not robot
+ngigx-have part reverse proxy(port mapping)
+jwt
+how token passes
+private key /public key in encryption decryption
+rainbow table
+linux-
+gui based and gui based os -
+ubantu is os based on Linux
+blob storage
+cors-cross origin resource sharing
+
+cicd -
+  jinx.docker,sonar
+
+
