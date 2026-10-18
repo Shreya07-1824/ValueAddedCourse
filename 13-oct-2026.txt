@@ -1,0 +1,32 @@
+O(n)
+O(1)-constant
+O(log n)-whether the num is dividing or number is increasing in multiples use log n 
+
+2**n>O(n)>root n>log(n)>O(1)
+
+to find TC of recursion ther e are two ways
+1.formula
+   no of recursion call*work done
+2. 2**n is mostrly in fibonacci
+
+
+3.prime number using root n
+for simple prime the TC is n
+
+space complexity:what is it and why it doesnt matter most
+h/w
+
+
+4.root n and cube root of no
+5.n factorial(n!)
+
+acept in TC
+constraints in TC
+sort vs sorted in array
+
+arr[::-1]-internally working 
+O(n!)
+loglogn mathmatical proof
+reverse array=for loop (arr.length)/2
+
+

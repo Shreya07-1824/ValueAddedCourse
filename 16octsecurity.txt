@@ -1,0 +1,26 @@
+#anis sir
+
+payload means body where post method post some data to server
+browser has two storage 1.cookies and 2 local storage
+local storage is unsecure so use cookies 
+the jwt tokens(acess anf refresh tocken) are in the form of cookies 
+access token lifesoan :15min
+refresh token lifespan is 7 days
+ttl-time to leave
+token have user details so if there is roll based system,if multiple users try to acess the same api the backend dont need to see the database it recognizes using the tocken
+JWT-contains payload(user data),header( user data),signature(mostly put timestamp)
+
+
+once we hash something(e.g password) we cant make it in its original form and its only one time process
+each time we login the hash is generated same so  that stored in db 
+sha256,hmac hashing algorithm
+login api is bydefault not authenticated the api afterwards authenticates the user
+authenticated api:passes trough middleware 
+-- bcrypt
+salt is added to password (additional security layer)
+alternatives of jwt
+authentication api is public
+and authenticated api is private
+
+
+

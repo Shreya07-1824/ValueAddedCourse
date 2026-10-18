@@ -1,0 +1,6 @@
+time complexity:
+   it tells you how the amount of work grows as the input grows
+
+how to analyze the algorithm:
+
+
